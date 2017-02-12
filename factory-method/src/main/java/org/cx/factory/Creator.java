@@ -1,6 +1,14 @@
 package org.cx.factory;
 
+/**
+ * 声明工厂方法，并返回一个产品类的对象.
+ * 
+ * @see Computer
+ * @see XpsCreator
+ * @see InspironCreator
+ */
 public abstract class Creator {
+    
     /**
      * 模板方法，定义创建和组装 Computer 对象的步骤
      */

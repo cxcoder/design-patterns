@@ -1,9 +1,11 @@
 package org.cx.factory;
 
 /**
- * Inspiron 系列产品工厂.
+ * ConcreteCreator
+ * <p>
+ * Inspiron 系列产品工厂
  */
-public class InspironCreator extends Creator  {
+public class InspironCreator extends Creator {
 
     @Override
     public Cpu makeCpu() {
