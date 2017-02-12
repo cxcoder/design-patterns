@@ -1,6 +1,11 @@
 package org.cx.abstractfactory;
 
-public class HDD implements HardDrive {
+/**
+ * ConcreteProduct
+ * <p>
+ * HDD
+ */
+public class HDD extends HardDrive {
     @Override
     public String name() {
         return "HDD";

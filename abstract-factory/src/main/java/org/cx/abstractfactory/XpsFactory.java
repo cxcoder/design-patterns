@@ -1,6 +1,8 @@
 package org.cx.abstractfactory;
 
 /**
+ * ConcreteFactory
+ * <p>
  * Xps 系列产品工厂.
  */
 public class XpsFactory implements DellFactory {

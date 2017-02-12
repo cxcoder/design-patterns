@@ -1,8 +1,15 @@
 package org.cx.abstractfactory;
 
-public class SSD implements HardDrive {
+/**
+ * ConcreteProduct
+ * <p>
+ * SSD
+ */
+public class SSD extends HardDrive {
+
     @Override
     public String name() {
         return "SSD";
     }
+
 }

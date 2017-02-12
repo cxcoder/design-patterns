@@ -1,7 +1,9 @@
 package org.cx.abstractfactory;
 
 /**
- * Inspiron 系列产品工厂.
+ * ConcreteFactory
+ * <p>
+ * Inspiron 系列产品工厂
  */
 public class InspironFactory implements DellFactory {
 

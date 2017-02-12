@@ -1,6 +1,12 @@
 package org.cx.abstractfactory;
 
-public class IntelCpu implements Cpu {
+/**
+ * ConcreteProduct
+ * <p>
+ * Intel CPU
+ * @author cyhe
+ */
+public class IntelCpu extends Cpu {
     @Override
     public String name() {
         return "Intel";
