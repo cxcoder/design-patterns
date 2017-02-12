@@ -1,9 +1,13 @@
 package org.cx.templatemethod;
 
+/**
+ * 打开外部文档
+ * @see MyApplication
+ */
 public abstract class Application {
 
     /**
-     * 模板方法，定义打开一个文档的主要步骤
+     * 模板方法，用一些抽象操作定义打开一个文档的算法，而子类提供具体的行为
      */
     public boolean openDocument() {
         if (!canOpenDocument()) {
