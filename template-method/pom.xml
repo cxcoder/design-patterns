@@ -10,7 +10,7 @@
     </parent>
     <artifactId>template-method</artifactId>
     <name>template-method</name>
-    <url>http://maven.apache.org</url>
+    <url>https://github.com/cyhe/design-patterns</url>
     <dependencies>
     </dependencies>
 </project>

@@ -10,7 +10,7 @@
     </parent>
     <artifactId>builder</artifactId>
     <name>builder</name>
-    <url>http://maven.apache.org</url>
+    <url>https://github.com/cyhe/design-patterns</url>
     <dependencies>
     </dependencies>
 </project>

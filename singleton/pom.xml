@@ -10,7 +10,7 @@
     </parent>
     <artifactId>singleton</artifactId>
     <name>singleton</name>
-    <url>http://maven.apache.org</url>
+    <url>https://github.com/cyhe/design-patterns</url>
 	
     <dependencies>
     </dependencies>
