@@ -17,6 +17,8 @@
         <module>abstract-factory</module>
         <module>factory-method</module>
         <module>builder</module>
+        <module>prototype</module>
+        <module>singleton</module>
         <module>template-method</module>
     </modules>
 
