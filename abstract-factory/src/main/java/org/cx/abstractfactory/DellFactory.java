@@ -7,7 +7,6 @@ package org.cx.abstractfactory;
  * 
  * @see InspironFactory
  * @see XpsFactory
- * @author cyhe
  */
 public interface DellFactory {
     Computer makeComputer();
