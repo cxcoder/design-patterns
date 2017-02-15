@@ -2,8 +2,8 @@ package org.cx.builder;
 
 /**
  * ConcreteBuilder
- * <p>
- * 构造和装配 ASCII 纯文本格式的各个部件，只负责转换普通文本
+ * 
+ * <p>构造和装配 ASCII 纯文本格式的各个部件，只负责转换普通文本
  * 
  * @see ASCIIText
  */
