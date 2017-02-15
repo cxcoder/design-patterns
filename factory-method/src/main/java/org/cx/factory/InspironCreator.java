@@ -2,8 +2,8 @@ package org.cx.factory;
 
 /**
  * ConcreteCreator
- * <p>
- * Inspiron 系列产品工厂
+ * 
+ * <p>Inspiron 系列产品工厂
  */
 public class InspironCreator extends Creator {
 

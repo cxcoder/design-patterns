@@ -2,8 +2,8 @@ package org.cx.abstractfactory;
 
 /**
  * ConcreteProduct
- * <p>
- * AMD CPU
+ * 
+ * <p>AMD CPU
  */
 public class AmdCpu extends Cpu {
     @Override

@@ -2,8 +2,8 @@ package org.cx.factory;
 
 /**
  * ConcreteCreator
- * <p>
- * Xps 系列产品工厂
+ * 
+ * <p>Xps 系列产品工厂
  */
 public class XpsCreator extends Creator {
     

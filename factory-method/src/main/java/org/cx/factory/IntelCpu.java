@@ -2,8 +2,8 @@ package org.cx.factory;
 
 /**
  * ConcreteProduct
- * <p>
- * Intel CPU
+ * 
+ * <p>Intel CPU
  */
 public class IntelCpu extends Cpu {
     @Override

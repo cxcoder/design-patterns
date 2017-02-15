@@ -2,8 +2,8 @@ package org.cx.abstractfactory;
 
 /**
  * ConcreteProduct
- * <p>
- * HDD
+ * 
+ * <p>HDD
  */
 public class HDD extends HardDrive {
     @Override

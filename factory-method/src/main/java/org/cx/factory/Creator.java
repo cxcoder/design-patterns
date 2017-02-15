@@ -22,9 +22,9 @@ public abstract class Creator {
     }
 
     /**
-     * 工厂方法，创建一个 Computer 对象.
-     * <p>
-     * 子类可重写，也可以使用默认实现
+     * 工厂方法，创建一个 Computer 对象
+     * 
+     * <p>子类可重写，也可以使用默认实现
      */
     protected Computer createComputer() {
         return new Computer();

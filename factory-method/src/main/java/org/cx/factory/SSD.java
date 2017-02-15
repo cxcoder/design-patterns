@@ -2,8 +2,8 @@ package org.cx.factory;
 
 /**
  * ConcreteProduct
- * <p>
- * SSD
+ * 
+ * <p>SSD
  */
 public class SSD extends HardDrive {
 

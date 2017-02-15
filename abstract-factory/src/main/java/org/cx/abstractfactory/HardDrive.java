@@ -2,8 +2,8 @@ package org.cx.abstractfactory;
 
 /**
  * AbstractProduct
- * <p>
- * 抽象产品对象 HardDrive
+ * 
+ * <p>抽象产品对象 HardDrive
  * @see SSD
  * @see HDD
  */

@@ -2,8 +2,8 @@ package org.cx.factory;
 
 /**
  * AbstractProduct
- * <p>
- * 抽象产品对象 Cpu
+ * 
+ * <p>抽象产品对象 Cpu
  * 
  * @see AmdCpu
  * @see IntelCpu
