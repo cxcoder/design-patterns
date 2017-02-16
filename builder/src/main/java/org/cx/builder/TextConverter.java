@@ -5,15 +5,13 @@ package org.cx.builder;
  * 
  * <p>为创建一个 Product 对象的各个部件指定抽象接口
  * 
- * @see TeXConverter
- * @see ASCIIConverter
+ * @see JsonConverter
+ * @see XmlConverter
  */
 public abstract class TextConverter {
 
-    protected abstract void convertCharacter();
+    protected abstract void convertString(String key, Object value);
 
-    protected abstract void convertFontChange();
-
-    protected abstract void convertParagraph();
+    protected abstract void convertInteger(String key, Object value);
 
 }
