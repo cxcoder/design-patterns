@@ -2,7 +2,7 @@
 
 定义一个用于创建对象的接口，让子类决定实例化哪一个类。使一个类的实例化延迟到其子类。
 
-![Factory Method](https://github.com/cyhe/design-patterns/blob/master/factory-method/factory_method.jpg)
+![Factory Method](https://github.com/cxcoder/design-patterns/blob/master/factory-method/factory_method.jpg)
 
 ### 适用场景
 - 一个类不确定创建对象的时机

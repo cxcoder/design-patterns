@@ -2,7 +2,7 @@
 
 提供一个创建一系列相关或相互依赖的对象的接口，而无需指定它们具体的类。
 
-![Abstract Factory](https://github.com/cyhe/design-patterns/blob/master/abstract-factory/abstract_factory.jpg)
+![Abstract Factory](https://github.com/cxcoder/design-patterns/blob/master/abstract-factory/abstract_factory.jpg)
 
 ### 适用场景
 - 一个系统要独立于其产品的创建、组合和表示时
