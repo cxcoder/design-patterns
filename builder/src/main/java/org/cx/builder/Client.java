@@ -5,9 +5,10 @@ import java.util.Map;
 
 public class Client {
 
-//    private JsonConverter converter = new JsonConverter();
+    //private JsonConverter converter = new JsonConverter();
     private XmlConverter converter = new XmlConverter();
-    private DataParser dataParser = new DataParser(converter);;
+    
+    private DataParser dataParser = new DataParser(converter);
 
     public void construct() {
         Map<String, Object> data = new HashMap<>();
